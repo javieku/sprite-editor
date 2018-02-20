@@ -33,15 +33,6 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SpriteAnimator.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Debug\moc_SpriteAnimator.cpp">
-      <Filter>Generated Files</Filter>
-    </ClCompile>
-    <ClCompile Include="GeneratedFiles\Release\moc_SpriteAnimator.cpp">
-      <Filter>Generated Files</Filter>
-    </ClCompile>
     <ClCompile Include="GeneratedFiles\qrc_SpriteAnimator.cpp">
       <Filter>Generated Files</Filter>
     </ClCompile>
@@ -98,9 +89,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="SpriteAnimator.h">
-      <Filter>Header Files</Filter>
-    </CustomBuild>
     <CustomBuild Include="SpriteAnimator.ui">
       <Filter>Form Files</Filter>
     </CustomBuild>
