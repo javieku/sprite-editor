@@ -1,2 +1,2 @@
 # sprite-editor
-Qt 5.10 based editor that allows to edit and previsualize sprite animations
+Editor that allows to change and previsualize sprite animations based Qt 5.10 
